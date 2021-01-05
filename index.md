@@ -2,6 +2,14 @@
 
 --- 
 
+### Data Visualization
+
+#### #makeovermonday
+I love making #makeovermonday submissions and getting feedback!
+[![](https://img.shields.io/badge/Tableau-Inferences-color?logo=Tableau)](https://public.tableau.com/profile/diep.tran.ngoc#!/)
+
+---
+
 ### Programming with Python and Numerical Methods
 My coursework at University of Tartu. Grades A for both courses.
 
@@ -23,13 +31,6 @@ Classification of tea leaves into three categories.
 [![](https://img.shields.io/badge/Slides-Inferences-color?logo=Slides)](https://docs.google.com/presentation/d/1VFXGNgJ78ES0TEY4BiuB2hW1WEX1nwjHEDQahjgeiFE/edit?usp=sharing) [![](https://img.shields.io/badge/R-R_File-color?logo=R)](https://github.com/dieptn1610/data-analytics/blob/main/Sri%20Lankan_Tea_Case.R)
 
 ![](https://www.comunicaffe.com/wp-content/uploads/2015/02/green-tea-leaves-640x400.jpg)
-
----
-
-### Personal projects
-
-#### 30 Days of Viz
-January 2021 challenge where I create 30 visualizations, one a day.
 
 ---
 
