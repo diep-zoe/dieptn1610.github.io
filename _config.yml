@@ -8,20 +8,3 @@ description: >
   I am pursuing a Bachelor of Business Administration at University of Tartu, Estonia.
   <br>
   Aspiring data analyst with years of international experience, team motivation and charismatic communication skills.
-  
-  
-<style type="text/css">
-
-h1.title {
-  font-size: 38px;
-  color: DarkRed;
-  text-align: center;
-}
-
-h4.description { /* Header 4 - and the author and data headers use this too  */
-  font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-  color: DarkBlue;
-  text-align: center;
-}
-</style>
