@@ -7,14 +7,15 @@
 #### Social data projects #MakeoverMonday and #DiversityinData
 During my semester abroad in Germany, I took a 2-day course in **Data Visualization** and attended a guest lecture by two representatives from Tableau Germany. So I started 2021 by learning how to use Tableau and decided to try out challenges by #makeovermonday. Lucky as I am, I am featured among the **favourites** for the first week of 2021 by the author of the initiative, Eva Murray!
 
+[![](https://img.shields.io/badge/Twitter-Zoe_Tran-color?logo=Twitter)](https://twitter.com/ZoeTran01)
 [![](https://img.shields.io/badge/Tableau-Public_profile-color?logo=Tableau)](https://public.tableau.com/profile/diep.tran.ngoc#!/)
-
-My first submission to #MakeoverMonday 
 [![](https://img.shields.io/badge/Youtube-Comment-color?logo=Youtube)](https://youtu.be/qAenJZrvQ70?t=635)
+
+**My first submission to #MakeoverMonday**
 
 ![](https://user-images.githubusercontent.com/59410249/104107372-ec321800-52bb-11eb-828d-3fa7c9fa8a27.PNG)
 
-My first submission to #DiversityinData
+**My first submission to #DiversityinData**
 
 ![](https://user-images.githubusercontent.com/59410249/104107374-ee947200-52bb-11eb-973a-7a864b9353d0.PNG)
 
