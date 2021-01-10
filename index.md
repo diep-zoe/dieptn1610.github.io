@@ -37,3 +37,12 @@ Classification of tea leaves into three categories.
 ### Basics of Databases
 
 I received grade A for the course [Introduction to Databases](https://ois2.ut.ee/#/courses/MTAT.03.105/details) at the University of Tartu.
+
+---
+
+## About myself
+
+Growing up in the vibrant city of Hanoi, I have always enjoyed working together with others and being in a team with a purpose to do something great. Since my high school years, I have been trusted with leadership roles in various student organizations, such as the [Applied Science Organization](https://www.facebook.com/aso.csp) in Hanoi, Vietnam. This passion of mine grew even more as I moved abroad to pursue my studies. At the [Erasmus Student Network Tartu](https://www.facebook.com/ESNTartuPage), I lead and participated in the organization of 11 events for hundreds of exchange students coming to Tartu, Estonia. I was also one of the two leaders for the preparation of the first webinar hosted by [AIESEC Estonia](https://www.aiesec.ee), which attracted over 60 participants. 
+
+![](https://user-images.githubusercontent.com/59410249/104128750-99af3500-5369-11eb-8acc-cfbcf94d1dcb.png)
+
